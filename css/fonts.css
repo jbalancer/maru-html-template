@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'Certa Sans';
+    src: local('Certa Sans Medium'), local('CertaSans-Medium'), url('../fonts/CertaSans/Certasansmedium.woff2') format('woff2'), url('../fonts/CertaSans/Certasansmedium.woff') format('woff'), url('../fonts/CertaSans/Certasansmedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "PTSansRegular";
+    src: url("../fonts/PTSansRegular/PTSansRegular.eot");
+    src: url("../fonts/PTSansRegular/PTSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/PTSansRegular/PTSansRegular.woff") format("woff"),
+    url("../fonts/PTSansRegular/PTSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu-Regular';
+    src: url('Ubuntu-Regular.eot');
+    src: local('Ubuntu Regular'), local('Ubuntu-Regular'),
+        url('../fonts/UbuntuRegular/Ubuntu-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UbuntuRegular/Ubuntu-Regular.woff') format('woff'),
+        url('../fonts/UbuntuRegular/Ubuntu-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu-Light';
+    src: url('Ubuntu-Light.eot');
+    src: local('Ubuntu Light'), local('Ubuntu-Light'),
+        url('../fonts/UbuntuLight/Ubuntu-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UbuntuLight/Ubuntu-Light.woff') format('woff'),
+        url('../fonts/UbuntuLight/Ubuntu-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu-Bold';
+    src: url('Ubuntu-Bold.eot');
+    src: local('Ubuntu Bold'), local('Ubuntu-Bold'),
+        url('../fonts/UbuntuBold/Ubuntu-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UbuntuBold/Ubuntu-Bold.woff') format('woff'),
+        url('../fonts/UbuntuBold/Ubuntu-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu-Condensed';
+    src: url('UbuntuCondensed-Regular.eot');
+    src: local('Ubuntu Condensed'), local('UbuntuCondensed-Regular'),
+        url('../fonts/UbuntuCondensed/UbuntuCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UbuntuCondensed/UbuntuCondensed-Regular.woff') format('woff'),
+        url('../fonts/UbuntuCondensed/UbuntuCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu-Medium';
+    src: url('../fonts/UbuntuMedium/Ubuntu-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.eot');
+    src: local('Roboto'), local('Roboto-Regular'),
+        url('../fonts/Roboto/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto/Roboto-Regular.woff') format('woff'),
+        url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Copyist';
+    src: url('../fonts/Copyist/Copyist.ttf');
+}
+
+@font-face {
+    font-family: 'CenturyGothic-Bold';
+    src: url('CenturyGothic-Bold.eot');
+    src: local('Century Gothic Bold'), local('CenturyGothic-Bold'),
+        url('../fonts/CenturyGothicBold/CenturyGothic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CenturyGothicBold/CenturyGothic-Bold.woff') format('woff'),
+        url('../fonts/CenturyGothicBold/CenturyGothic-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CenturyGothic';
+    src: url('../fonts/CenturyGothic/CenturyGothic.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('Montserrat-Light.eot');
+    src: local('Montserrat Light'), local('Montserrat-Light'),
+        url('../fonts/MontserratLight/Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MontserratLight/Montserrat-Light.woff') format('woff'),
+        url('../fonts/MontserratLight/Montserrat-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('Montserrat-Regular.eot');
+    src: local('Montserrat Regular'), local('Montserrat-Regular'),
+        url('../fonts/MontserratRegular/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MontserratRegular/Montserrat-Regular.woff') format('woff'),
+        url('../fonts/MontserratRegular/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('Montserrat-Medium.eot');
+    src: local('Montserrat Medium'), local('Montserrat-Medium'),
+        url('../fonts/MontserratMedium/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MontserratMedium/Montserrat-Medium.woff') format('woff'),
+        url('../fonts/MontserratMedium/Montserrat-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
